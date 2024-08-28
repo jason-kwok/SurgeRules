@@ -1,5 +1,5 @@
 #!name=机场流量
-#!desc=复制该文件内容至本地模块 修改URL encode后的机场节点链接
+#!desc=显示机场流量等信息
 #!anthor=mieqq
 #!homepage=https://whatshub.top
 [Panel]
