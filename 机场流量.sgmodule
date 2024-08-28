@@ -1,0 +1,8 @@
+#!name=机场流量
+#!desc=复制该文件内容至本地模块 修改URL encode后的机场节点链接
+#!anthor=mieqq
+#!homepage=https://whatshub.top
+[Panel]
+Sub_info = script-name=Sub_info
+[Script]
+Sub_info = type=generic,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,argument=url=https://api-huacloud.net/sub?target=surge&ver=4&insert=true&emoji=true&tfo=true&udp=true&surge.doh=true&filename=Flower_SS&url=https%3A%2F%2Fapi.xmancdn.net%2Fosubscribe.php%3Fsid%3D125863%26token%3D7TVcctNscSCs%26sip002%3D1&reset_day=1&title=Subscription&icon=icloud.circle.fill&color=#0D918D
