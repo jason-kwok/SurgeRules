@@ -7,7 +7,7 @@
 # 版本：5.0
 
 [Panel]
-{{{花云}}}=script-name={{{花云}}},update-interval=3600
+{{{NAME}}}=script-name={{{NAME}}},update-interval=3600
 
 [Script]
-{{{花云}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{https%3A%2F%2Fapi-huacloud.net%2Fsub%3Ftarget%3Dsurge%26ver%3D4%26insert%3Dtrue%26emoji%3Dtrue%26tfo%3Dtrue%26udp%3Dtrue%26surge.doh%3Dtrue%26filename%3DFlower_SS%26url%3Dhttps%253A%252F%252Fapi.xmancdn.net%252Fosubscribe.php%253Fsid%253D125863%2526token%253D7TVcctNscSCs%2526sip002%253D1}}}&reset_day={{{16}}}&title={{{花云}}}&icon={{{ICON}}}&color={{{COLOR}}}
+{{{NAME}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL}}}&reset_day={{{RESET_Day}}}&title={{{NAME}}}&icon={{{ICON}}}&color={{{COLOR}}}
